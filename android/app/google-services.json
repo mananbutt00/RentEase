@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191054918538",
+    "project_id": "rentease-7fc1c",
+    "storage_bucket": "rentease-7fc1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191054918538:android:24a9e4bc903b57bd634e73",
+        "android_client_info": {
+          "package_name": "com.rentease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL05fj7fxDV6EtlToMc7UcW3ncYiUfwBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
